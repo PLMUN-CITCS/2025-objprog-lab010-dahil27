@@ -33,7 +33,7 @@ public class LoopingStatementsDemo {
 		    if (i == 7) {
 		        continue;
 		    }
-		    if (i > 😎 {
+		    if (i > 8 )      {
 		        break;
 		    }
 		    System.out.println("Number: " + i);
